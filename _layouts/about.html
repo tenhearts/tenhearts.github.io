@@ -12,6 +12,7 @@ layout: default
         </header>
 
         <article>
+
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -28,6 +29,7 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
@@ -39,28 +41,52 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
+          
+          {%- if page.social %}
+          <!-- Social -->
+          <div class="social">
+          <div class="contact-icons">
+          {% include social.html %}
+          </div>
+
+          <!-- <div class="contact-note">
+            {{ site.contact_note }}
+          </div> -->
+          
+          </div>
+          {%- endif %}
 
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
 
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
+          {% if page.papers -%}
+            <!-- Selected papers -->
+            {%- include papers.html %}
           {%- endif %}
+          <br>
+
+          {% if page.projects -%}
+          <p><!-- Selected papers -->
+            {%- include myprojects.html %}
+          </p>
+            
+          {%- endif %}
+          <br>
+          
+          {% if page.personal -%}
+          <p>
+            <!-- Selected papers -->
+            {%- include personal.html %}
+          </p>
+          {%- endif %}
+          
         </article>
 
 </div>

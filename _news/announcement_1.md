@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-9-10
 inline: true
 ---
 
-A simple inline announcement.
+I have joined <a href="https://rpg.ifi.uzh.ch/">Robotics and Perception Group</a>.
