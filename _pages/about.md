@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-I am a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interest lies at the intersection of perception and robot learning algorithms for Micro Aerial Vehicles with real-world applications.
+I am a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interest focus on developing trustworthy robot perception algorithms for Micro Aerial Vehicles with real-world applications.
 
 During my master, I also have research experiences at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Micro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Computer Vision Lab (CVL)](https://vision.ee.ethz.ch/) led by [Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjcxLC0xOTcxNDY1MTc4.html). Prior to master, I obtained Bachelor of Engineering in Computer Science and Technology at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
 
