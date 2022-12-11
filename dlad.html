@@ -2,6 +2,172 @@
 layout: default
 ---
 
-<p>
-  Hello!
-</p>
+<!DOCTYPE html>
+<html>
+<!-- <head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="An interpretable and lightweight shape representation">
+  <meta name="keywords" content="SAP, Shape-As-Points">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shape As Points (SAP)</title> -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-PYVRSFMDRL');
+  </script> -->
+
+<!-- <link rel="icon" type="image/png" href="media/sap/sap_preview.png"> 
+<link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./media/sap/css/bulma.min.css">
+  <link rel="stylesheet" href="./media/sap/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./media/sap/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./media/sap/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./media/sap/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./media/sap/js/fontawesome.all.min.js"></script>
+  <script src="./media/sap/js/bulma-carousel.min.js"></script>
+  <script src="./media/sap/js/bulma-slider.min.js"></script>
+  <script src="./media/sap/js/index.js"></script>
+</head> -->
+<body>
+
+<!-- <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://pengsongyou.github.io">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://pengsongyou.github.io/conv_onet">
+            ConvONet
+          </a>
+          <a class="navbar-item" href="https://pengsongyou.github.io/nice-slam">
+            NICE-SLAM
+          </a>
+          <a class="navbar-item" href="https://moechsle.github.io/unisurf/">
+            UNISURF
+          </a>
+          <a class="navbar-item" href="https://creiser.github.io/kilonerf/">
+            KiloNeRF
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav> -->
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Multi-task Learning for Autonomous Driving</h1>
+          <div class="column is-full_width">
+            <h3 class="title is-4">Course Project for <a href="https://www.trace.ethz.ch/teaching/DLAD/index.html">
+              Deep Learning for Autonomous Driving</a></h3>
+          </div>
+          <br>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      
+      <h2 class="subtitle has-text-centered">
+      Introduction
+      </h2>
+
+      <p>
+        The objective of this lecture is to use modern automotive sensors and HD navigational maps, and to implement, 
+        train and debug deep neural networks in order to gain a deep understanding of cutting-edge research in autonomous driving tasks, 
+        including perception, localization and control. Detailed topics covered in the projects are following:
+        <li> <b>Project 1</b>: Understanding multimodal driving data; </li>
+        <li> <b>Project 2</b>: Multi-task learning for semantics segmentation and depth estimation; </li>
+        <li> <b>Project 3</b>: 3D Object detection from lidar point clouds. </li>
+      </p>
+      <br>
+
+      <h2 class="subtitle has-text-centered">
+        Project 1: Understanding Multimodal Driving Data
+      </h2>
+
+      <p>
+        The goal of the first project is to visualize the outputs of common autonomous driving tasks such as 3D object detection 
+        and point cloud semantic segmentation given a LiDAR point cloud, the corresponding RGB camera image, the ground truth 
+        semantic labels and the network bounding box predictions.
+        <br><br>
+        Additional tasks were about identifying each laser ID directly from the point cloud, and dealing with the point cloud 
+        distortion caused by the vehicle motion with the aid of GPS/IMU data.
+        <br><br>
+        Further info: <a href="assets/pdf/handout_p1.pdf">Handout</a>, <a href="assets/pdf/report_p1.pdf"> Report</a>.
+      </p>
+      <br>
+      <img src="assets/img/p1.png" width="100%" class="center"/>
+      
+      <br><br><br>
+      <h2 class="subtitle has-text-centered">
+        Project 2: Multi-task Learning for Semantics Segmentation and Depth Estimation
+      </h2>
+      
+      <p>
+        The goal of the second project is to build Multi-Task Learning (MTL) architectures for semantic segmentation and monocular depth estimation tasks, 
+        exploiting joint architectures, branched architectures, and task distillation.
+        <br><br>
+        Further info: <a href="assets/pdf/handout_p2.pdf">Handout</a>, <a href="assets/pdf/report_p2.pdf"> Report</a>.
+      </p>
+      <img src="assets/img/p2.png" width="100%" class="center"/>
+
+      <br><br><br>
+      <h2 class="subtitle has-text-centered">
+        Project 3: 3D Object Detection from Lidar Point Clouds
+      </h2>
+      
+      <p>
+        The goal of the third project is to build a 2-stage 3D object detector to detect vehicles in autonomous driving scenes. 
+        The first stage, which is often referred to as the Region Proposal Network (RPN), is used to create coarse detection results from the irregular point cloud data.
+         These initial detections are later refined in the second stage network to generate the final predictions.
+
+        <br><br>
+        Further info: <a href="assets/pdf/handout_p3.pdf">Handout</a>, <a href="assets/pdf/report_p3.pdf"> Report</a>.
+      </p>
+      <img src="assets/img/p3.png" width="100%" class="center"/>
+
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
