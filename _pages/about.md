@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: kexin.jpg
+  image: skxx.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -18,11 +18,11 @@ personal: true
 projects: true
 ---
 
-I am a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interest focus on developing trustworthy robot perception algorithms for Micro Aerial Vehicles with real-world applications.
+I am a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy robot perception algorithms for Micro Aerial Vehicles with real-world applications.
 
 During my master, I also have research experiences at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Micro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html) and [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). Prior to master, I obtained Bachelor of Engineering in Computer Science and Technology at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
 
-I have spent many colorful summer in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Additionally, I was also lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant in [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
+I have spent many colorful summer in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Additionally, I was also lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant in [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
