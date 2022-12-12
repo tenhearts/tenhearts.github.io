@@ -1,0 +1,163 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+<!-- <head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="An interpretable and lightweight shape representation">
+  <meta name="keywords" content="SAP, Shape-As-Points">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shape As Points (SAP)</title> -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-PYVRSFMDRL');
+  </script> -->
+
+<!-- <link rel="icon" type="image/png" href="media/sap/sap_preview.png"> 
+<link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./media/sap/css/bulma.min.css">
+  <link rel="stylesheet" href="./media/sap/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./media/sap/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./media/sap/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./media/sap/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./media/sap/js/fontawesome.all.min.js"></script>
+  <script src="./media/sap/js/bulma-carousel.min.js"></script>
+  <script src="./media/sap/js/bulma-slider.min.js"></script>
+  <script src="./media/sap/js/index.js"></script>
+</head> -->
+<body>
+
+<!-- <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://pengsongyou.github.io">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://pengsongyou.github.io/conv_onet">
+            ConvONet
+          </a>
+          <a class="navbar-item" href="https://pengsongyou.github.io/nice-slam">
+            NICE-SLAM
+          </a>
+          <a class="navbar-item" href="https://moechsle.github.io/unisurf/">
+            UNISURF
+          </a>
+          <a class="navbar-item" href="https://creiser.github.io/kilonerf/">
+            KiloNeRF
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav> -->
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"><b>Visual Odometry Pipeline</b</h1>
+          <div class="column is-full_width">
+            <h3 class="title is-4">Course Project for <a href="https://rpg.ifi.uzh.ch/teaching.html">
+              Vision Algorithms for Mobile Robotics</a></h3>
+          </div>
+          <br>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      
+      <h2 class="subtitle has-text-centered">
+        <b>Introduction</b>
+      </h2>
+
+      <p>
+        The objective of this project is to implement a simple, monocular, visual odometry (VO) pipeline with the most essential features: 
+        initialization of 3D landmarks, keypoint tracking between two frames, pose estimation using established 2D - 3D correspondences, 
+        and triangulation of new landmarks. And test the pipeline on parking, <a href="https://www.cvlibs.net/datasets/kitti/eval_odometry.php">KITTI</a> and 
+        <a href="https://www.mrpt.org/MalagaUrbanDataset">Malaga</a> datasets. <br>Additional features can result in bonus points.
+        <br><br>
+        Further info: <a href="assets/pdf/vo_handout.pdf">Statement</a>.
+        <div align="center"><img src="assets/img/vo.gif" width="70%" class="center"/></div>
+        <br><br>
+      </p>
+        
+      <h2 class="subtitle has-text-centered">
+        <b>Implementation</b>
+      </h2>
+
+      <p>
+        The pipeline contains two main parts: initialization and continuous visual odometry operations:
+        <div align="center"><img src="assets/img/vo_1.png" width="70%" class="center"/></div>
+        <div align="center"><img src="assets/img/vo_2.png" width="70%" class="center"/></div>
+        <br>
+        Beyond the fundamental functions, we also implemented some interesting additional features including <b>automatics keyframe selection</b>, 
+        <b>comparison and analysis of different feature detectors</b>, <b>non-maxima suppression in feature detection</b>, <b>combination of SIFT and DLT/P3P in pose refinement</b>, 
+        <b>bundle adjustment with sliding window</b> and <b>own dataset collection using <a href="https://www.duckietown.org/">Duckiebot</a></b>.
+        <br><br>
+        Detailed descriptions can be found in <a href="assets/pdf/vo_report.pdf">report</a>. Following the above pipeline, we analyzed the results on the three given datasets. 
+        At last, we demonstrated how do we collect our own dataset and adopted the pipeline onto it with some necessary steps. 
+        Meanwhile, we proposed some alternative methods to solve the cause of failure in the visual odometry process. 
+        <br><br>
+        Final I got <b>0.5/0.5</b> in this project.
+      </p>
+      <br><br>
+
+      <h2 class="subtitle has-text-centered">
+        <b>Result</b>
+      </h2>
+
+      <p>
+        
+        Visual outcomes can be found in <a href="https://www.youtube.com/watch?v=BCFkxOlfObs&t=19s">Parking</a>, 
+        <a href="https://www.youtube.com/watch?v=D_X7NBy5x08&t=477s">Kitti</a> and  
+        <a href="https://www.youtube.com/watch?v=QbkdRSpwYbI&t=1s">Malaga</a>.
+      </p> 
+
+
+
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
