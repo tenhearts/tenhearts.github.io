@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2022-9-15
+date: 2023-1-17
 inline: true
 ---
 
-Our work <a href="https://arxiv.org/abs/2210.01841">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is submitted to ICRA 2023.
+Our work <a href="https://arxiv.org/abs/2210.01841">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is received by ICRA 2023.
 
 <!-- ***
 
