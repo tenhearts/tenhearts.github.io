@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: skxx.jpg
+  image: kexin.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-I am a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy robot perception algorithms for agile autonomous flight with real-world validation.
+I am a visiting student at CMU Robotics Institute advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Prior to CMU, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy reinforcement learning for control algorithms for agile robots with real-world validation.
 
 During my master, I also have research experiences at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Micro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html) and [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). Prior to master, I obtained Bachelor of Engineering in Computer Science and Technology at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
 
