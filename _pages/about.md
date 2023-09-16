@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-I am a visiting scholar at CMU Robotics Institute advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy reinforcement learning algorithms using onboard sensing for agile robots applications with real-world validation.
+I am a visiting scholar at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy reinforcement learning algorithms using onboard sensing for agile robots applications with real-world validation.
 
 During my master, I also have research experiences at [Advanced Interactive Technologies Lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges), [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html) and [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). Prior to master, I obtained Bachelor of Engineering in Computer Science and Technology at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
 
