@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-1-17
+date: 2023-9-16
 inline: true
 ---
 
-Our work <a href="https://arxiv.org/abs/2210.01841">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is accepted by ICRA 2023.
+Our <a href="https://tenhearts.github.io/">Extreme Parkour</a> is submitted to ICRA 2024.
 
 <!-- ***
 

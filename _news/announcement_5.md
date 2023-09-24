@@ -5,7 +5,7 @@ date: 2023-7-24
 inline: true
 ---
 
-I arrive in Pittsburgh and officially start my visiting at [CMU Robotics Institute]((https://www.ri.cmu.edu/)).
+I arrive in Pittsburgh and officially start my visiting at <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a>.
 
 <!-- ***
 
