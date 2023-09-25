@@ -5,7 +5,7 @@ date: 2023-9-16
 inline: true
 ---
 
-Our <a href="https://tenhearts.github.io/">Extreme Parkour</a> is submitted to ICRA 2024.
+Our work <a href="https://tenhearts.github.io/">Extreme Parkour</a> is submitted to ICRA 2024.
 
 <!-- ***
 
