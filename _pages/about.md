@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-**Email**: kexins \[at\] andrew \[dot\] cmu \[dot\] edu
+**Email**: kexins@andrew.cmu.edu
 
 I am a visiting scholar at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy reinforcement learning algorithms using onboard sensing for agile robots applications with real-world validation.
 
