@@ -1,13 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-11-10
+date: 2024-1-29
 inline: true
 ---
 
-It was super exciting to meet lots of new friends at <a href="https://www.corl2023.org/">CoRL 2023</a> in Atlanta and discuss about our <a href="https://extreme-parkour.github.io/">extreme parkour</a> work. We also showed a <a href="https://twitter.com/pathak2206/status/1725216365840384360">live demo</a>, please check!
-
-<!-- I am invited to give a talk at <a href="https://real.stanford.edu/">Robotics and Embodied Artificial Intelligence Lab</a> at Stanford about <a href="https://extreme-parkour.github.io/">Extreme Parkour with Legged Robots</a>. Here is our <a href="https://drive.google.com/file/d/1BIh2QjejtCoaxpqV63qVtmIpFY-nWVCo/view?usp=share_link">slide</a>! -->
+Our work <a href="https://extreme-parkour.github.io/">Extreme Parkour with Legged Robots</a> was accpeted by ICRA 2024. See you in Yokohama, Japan!
 
 <!-- ***
 

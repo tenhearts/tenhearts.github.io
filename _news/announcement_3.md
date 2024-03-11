@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-1-17
+date: 2023-6-10
 inline: true
 ---
 
-Our work <a href="agileflight.html">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is accepted by ICRA 2023.
+I have spent a wonderful week at <a href="https://www.icra2023.org/welcome">ICRA 2023</a> in London, UK. It was my pleasure to present my <a href="agileflight.html">work</a> as well as meet many new friends!
 
 <!-- ***
 

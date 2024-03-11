@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-7-24
+date: 2023-9-16
 inline: true
 ---
 
-I arrive in Pittsburgh and officially start my visiting at <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a>.
+Our work <a href="https://extreme-parkour.github.io/">Extreme Parkour with Legged Robots</a> was released!
 
 <!-- ***
 

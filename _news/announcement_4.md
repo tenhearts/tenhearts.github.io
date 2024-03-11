@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-6-10
+date: 2023-7-24
 inline: true
 ---
 
-I have spent a wonderful week at <a href="https://www.icra2023.org/welcome">ICRA 2023</a> in London, United Kingdom. It is my pleasure to present my <a href="agileflight.html">work</a> as well as meet many new friends!
+I arrived in Pittsburgh and started my visiting in person at <a href="https://www.ri.cmu.edu/">CMU Robotics Institute</a>.
 
 <!-- ***
 

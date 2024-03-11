@@ -8,7 +8,7 @@ profile:
   align: right
   image: kexin.jpg
   image_circular: false # crops the image to make it circular
-  address:
+  address: Shot in London, Nov 2023
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,11 +20,13 @@ projects: true
 
 **Email**: teenhaci@gmail.com
 
-I am a visiting scholar at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing trustworthy embodied robotic agents using onboard sensing with real world validation.
+I am a visiting scholar at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing embodied robotic agents by leveraging the power of foundation models to boost its generality, intelligence and functionality.
 
-During my master, I also have research experiences at [Advanced Interactive Technologies Lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges), [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html) and [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). Prior to master, I obtained Bachelor of Engineering in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
+During my master, I also have research experiences at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html) and [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). Prior to master, I obtained Bachelor of Engineering in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020.
 
 I have spent many colorful summers in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+
+Feel free to contact me if you are interested in my works and want to collaborate with me!
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
