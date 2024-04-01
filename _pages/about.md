@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-**Email**: teenhaci@gmail.com
+**Email**: kexins@andrew.cmu.edu
 
 I am a visiting scholar at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a master research student at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) led by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). My current interests focus on developing embodied robotic agents by leveraging the power of foundation models to boost its generality, intelligence and functionality.
 
