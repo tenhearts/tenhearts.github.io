@@ -26,7 +26,7 @@ During my master, I also have research experiences at [Robotic Systems Lab (RSL)
 
 I have spent many colorful summers in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-Feel free to contact me if you are interested in my works and want to collaborate with me!
+<!-- Feel free to contact me if you are interested in my works and want to collaborate with me! -->
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
