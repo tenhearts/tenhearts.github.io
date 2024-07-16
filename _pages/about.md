@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: kexin.jpg
+  image: kx.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
@@ -22,7 +22,7 @@ projects: true
 
 I am a research scholar at [Skild AI](https://www.skild.ai/). Previously, I was visiting student at [CMU RI](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/) and a graduate researcher at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). I am broadly interested in robot learning, especially in RL , generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, humanoid, manipulator, etc.
 
-During my master, I also spent some time at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Advanced Interactive Technologies lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). Prior to master, I obtained Bachelor of Engineering in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+During my master, I also spent some time at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Advanced Interactive Technologies lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). Prior to master, I obtained bachelor degree in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 I have spent many colorful summers in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
