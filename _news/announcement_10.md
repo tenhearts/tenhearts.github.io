@@ -5,7 +5,7 @@ date: 2024-5-17
 inline: true
 ---
 
-I have spent a fruitful week at <a href="https://2024.ieee-icra.org/">ICRA 2024</a> in Yokohama, Japan. Also, I made a <a href="https://www.bilibili.com/video/BV1fJ4m1g7aP/?spm_id_from=333.999.0.0">Vlog</a> to record it. Check it out!
+I have spent a fruitful week at <a href="https://2024.ieee-icra.org/">ICRA 2024</a> in Yokohama, Japan. Also, I made a <a href="https://www.bilibili.com/video/BV1fJ4m1g7aP/?spm_id_from=333.999.0.0">Vlog</a> to record it. Please check it out!
 
 <!-- ***
 

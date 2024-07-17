@@ -5,7 +5,7 @@ date: 2024-2-2
 inline: true
 ---
 
-It is my honor to be admitted to <a href="https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/">CMU Robotics PhD Program</a> in 2024 Fall. See you in Open House Day!x
+It is my honor to be admitted to <a href="https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/">CMU Robotics PhD Program</a> in 2024 Fall. See you in Open House Day!
 
 <!-- ***
 
