@@ -18,7 +18,7 @@ personal: true
 projects: true
 ---
 
-**Email**: kexins@andrew.cmu.edu
+**Email**: xiasuhang.leo@foxmail.com
 
 I am a visiting scholar at [CMU RI](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was a graduate researcher at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). I am broadly interested in robot learning, especially in RL , generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, humanoid, manipulator, etc.
 
