@@ -1,11 +1,11 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-6-10
+date: 2024-1-29
 inline: true
 ---
 
-I have spent a wonderful week at <a href="https://www.icra2023.org/welcome">ICRA 2023</a> in London, UK. It was my pleasure to present my <a href="agileflight.html">work</a> as well as meet many new friends!
+Our work <a href="https://extreme-parkour.github.io/">Extreme Parkour with Legged Robots</a> is accpeted by ICRA 2024. See you in Yokohama, Japan!
 
 <!-- ***
 

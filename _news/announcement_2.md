@@ -1,11 +1,12 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-1-17
+date: 2023-11-21
 inline: true
 ---
 
-Our work <a href="agileflight.html">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is accepted by ICRA 2023. See you in London, UK!
+In the past month, I was invited to give talks about our <a href="https://extreme-parkour.github.io/">extreme parkour</a> work at <a href="https://real.stanford.edu/">REAL</a> at Stanford, <a href="https://biomimetics.mit.edu/">Biomimetic Robotics Lab</a> at MIT and <a href="https://ori.ox.ac.uk/labs/drs/">Dynamic Robot Systems Group</a> at Oxford Robotics Institute.
+<!-- I am invited to give a talk at <a href="https://real.stanford.edu/">Robotics and Embodied Artificial Intelligence Lab</a> at Stanford about <a href="https://extreme-parkour.github.io/">Extreme Parkour with Legged Robots</a>. Here is our <a href="https://drive.google.com/file/d/1BIh2QjejtCoaxpqV63qVtmIpFY-nWVCo/view?usp=share_link">slide</a>! -->
 
 <!-- ***
 
