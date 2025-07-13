@@ -5,7 +5,7 @@ date: 2024-1-29
 inline: true
 ---
 
- <a href="https://extreme-parkour.github.io/">Our work</a> is accpeted by ICRA 2024. See you in Yokohama, Japan!
+ <a href="https://extreme-parkour.github.io/">One work</a> is accpeted by ICRA 2024. See you in Yokohama, Japan!
 
 <!-- ***
 
