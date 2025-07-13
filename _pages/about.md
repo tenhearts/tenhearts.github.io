@@ -22,7 +22,7 @@ projects: false
 
 I am a Robotics Ph.D. at [CMU RI](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was research scholar at [Skild AI](https://www.skild.ai/) and a graduate researcher at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). 
 
-I am broadly interested in robot learning, especially in reinforcement learning, generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, humanoid, manipulator, and etc.
+I am broadly interested in robot learning, especially in reinforcement learning, generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, manipulator, and etc.
 
 <!-- During my master, I also spent some time at [Robotic Systems Lab (RSL)](https://rsl.ethz.ch/) led by [Prof. Macro Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Computer Vision and Geometry Group (CVG)](https://cvg.ethz.ch/) led by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) and [Advanced Interactive Technologies lab (AIT)](https://ait.ethz.ch/) led by [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges). Prior to master, I obtained bachelor's degree in Computer Science at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
