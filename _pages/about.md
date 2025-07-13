@@ -20,7 +20,7 @@ projects: false
 
 **Email**: kexins@andrew.cmu.edu
 
-I am a Robotics Ph.D. at [CMU RI](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was research scholar at [Skild AI](https://www.skild.ai/) and a graduate researcher at [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). 
+I am a Robotics Ph.D. at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was research scholar at [Skild AI](https://www.skild.ai/) and a graduate researcher at [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). 
 
 I am broadly interested in robot learning, especially in reinforcement learning, generative algorithms and foundation models, with validations across different platforms: quadrotor, quadruped, manipulator, and etc.
 
@@ -28,7 +28,7 @@ I am broadly interested in robot learning, especially in reinforcement learning,
 
 I have spent many colorful summers in different places. In 2022, I attended [ETHz Robotics Summer School](https://rsl.ethz.ch/scientific-events/summer-schools/robotics-sumemr-school-2022.html). In 2019, I participated in [NUS SOC Summer WorkShop](https://sws.comp.nus.edu.sg/2019/index.htm). In 2018, I was an exchanged summer student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).  -->
 
-Feel free to contact me if you are interested in my works and want to collaborate with me! Let us do stellar work and have fun!
+Feel free to contact me if you are interested in my works and want to collaborate with me! Let us do stellar work and have fun:)
 <!-- Additionally, I was lucky to be a visiting student at [University of Cambridge](https://www.cam.ac.uk/) with credits and a research assistant at [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en/about). -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

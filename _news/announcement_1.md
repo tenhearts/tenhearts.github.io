@@ -5,7 +5,7 @@ date: 2023-1-17
 inline: true
 ---
 
-Our work <a href="agileflight.html">Learning Perception-Aware Agile Flight in Cluttered Environments</a> is accepted by ICRA 2023. See you in London, UK!
+<a href="agileflight.html">Our work Learning</a> is accepted by ICRA 2023. See you in London, UK!
 
 <!-- ***
 
