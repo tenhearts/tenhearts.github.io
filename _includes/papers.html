@@ -1,112 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Publications</title>
+  <style>
+    /* 只写在 HTML 里，不需要外部 CSS */
+    .publication-item {
+      display: flex;
+      align-items: stretch;
+      margin-bottom: 2.5rem;        /* 增大条目间距 */
+      gap: 1rem;
+    }
+    .pub-thumb {
+      flex: 0 0 40%;
+      text-align: center;
+    }
+    .pub-thumb img {
+      width: 90%;
+      border-radius: 15px;
+      border: 1px solid #000;
+    }
+    .pub-details {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between; /* 上下对齐 */
+    }
+    .pub-header { /* 顶部对齐 */
+      /* 不用写任何东西，依赖 space-between 自动贴上 */
+    }
+    .pub-footer { /* 底部对齐 */
+      /* 同上 */
+    }
+    .pub-title {
+      margin: 0;
+      font-size: 1.25rem;
+      color: #c12bd9;
+    }
+    .pub-authors,
+    .pub-venue,
+    .pub-links {
+      margin: 0.5rem 0;
+    }
+    .pub-links a {
+      text-decoration: none;
+      color: #c12bd9;
+    }
+  </style>
+</head>
+<body>
+  <div class="publications">
+    <h2>Publications</h2>
 
-          <div class="publications">
-            <h2>Publications</h2>
+    <div class="publication-item">
+      <div class="pub-thumb">
+        <img src="assets/img/parkour.gif" alt="Extreme Parkour 演示动图">
+      </div>
+      <div class="pub-details">
+        <div class="pub-header">
+          <h3 class="pub-title">
+            <a href="https://extreme-parkour.github.io/" id="parkour">
+              Extreme Parkour with Legged Robots
+            </a>
+          </h3>
+          <p class="pub-authors">
+            Xuxin Cheng*, <strong>Kexin Shi*</strong>, Ananye Agarwal, Deepak Pathak
+          </p>
+        </div>
+        <div class="pub-footer">
+          <p class="pub-venue">
+            ICRA 2024<br>
+            CoRL 2023 Generalist / Roboletics / Deployable Workshop (Oral)
+          </p>
+          <p class="pub-links">
+            <a href="https://extreme-parkour.github.io/">Webpage</a> |
+            <a href="https://extreme-parkour.github.io/resources/parkour.pdf">Paper</a> |
+            <a href="https://www.youtube.com/watch?v=cqvAgcQl6s4">Video</a> |
+            <a href="https://github.com/chengxuxin/extreme-parkour">Code</a> |
+            <a href="https://twitter.com/pathak2206/status/1725216365840384360">Live Demo</a>
+          </p>
+        </div>
+      </div>
+    </div>
 
-            <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          
-              <tr>
-                <td width="40%" valign="top" align="center">
-                <img src="assets/img/parkour.gif" alt="sym" width="90%" style="margin-top:10px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
-                <!-- <video autoplay loop muted playsinline controls src="assets/img/Handstand_Downstair_Handhold.mp4" alt="sym" width="90%" style="border: 1px solid #bbb; border-radius: 10px; width: 50%;"></video> -->
-              </td>
 
-                <td width="60%" valign="center">
-                  <p><a href="https://extreme-parkour.github.io/" id="parkour">
-                  <papertitle><b>Extreme Parkour with Legged Robots</b></papertitle></a><br>
+    <div class="publication-item">
+      <div class="pub-thumb">
+        <img src="assets/img/agileflight.gif" alt="Agile Flight 演示动图">
+      </div>
+      <div class="pub-details">
+        <div class="pub-header">
+          <h3 class="pub-title">
+            <a href="agileflight.html" id="perception-aware">
+              Learning Perception-Aware Agile Flight in Cluttered Environments
+            </a>
+          </h3>
+          <p class="pub-authors">
+            Yunlong Song*, <strong>Kexin Shi*</strong>, Robert Penicka, Davide Scaramuzza
+          </p>
+        </div>
+        <div class="pub-footer">
+          <p class="pub-venue">
+            ICRA 2023
+          </p>
+          <p class="pub-links">
+            <a href="agileflight.html">Webpage</a> |
+            <a href="https://arxiv.org/abs/2210.01841">Paper</a> |
+            <a href="https://www.youtube.com/watch?v=9q059CFGcVA">Video</a> |
+            <a href="https://docs.google.com/presentation/d/1x6J1FSLD8-AhrI9EaM37v_Ig8_q8s_cVTJu45I8L8C4/edit?usp=sharing">Slide</a>
+          </p>
+        </div>
+      </div>
+    </div>
 
-                    Xuxin Cheng*, <b>Kexin Shi*</b>, 
-                    Ananye Agarwal, 
-                    Deepak Pathak
-                  
-                  </p>
-
-                  <p>
-                  <div>
-                    ICRA 2024
-                  <br>
-                    CoRL 2023 Generalist / Roboletics / Deployable Workshop (Oral)
-                  </div>
-              
-                  <div class="paper" id="parkour">
-                    <!-- <a href="agileflight.html">Webpage</a> | -->
-                    <!-- <a href="javascript:toggleblock('udc_abs')">abstract</a> | -->
-                    <!-- <a shape="rect" href="javascript:togglebib('arma')" class="togglebib">bibtex</a> | -->
-                    <!-- <a href="assets/pdf/agileflight_poster.pdf">Poster</a> | -->
-                    <a href="https://extreme-parkour.github.io/">Webpage</a> |
-                    <!-- <a href="assets/pdf/parkour_poster.pdf">Poster</a> | -->
-                    <a href="https://extreme-parkour.github.io/resources/parkour.pdf">Paper</a> |
-                    <a href="https://www.youtube.com/watch?v=cqvAgcQl6s4">Video</a> |
-                    <!-- <a href="https://drive.google.com/file/d/1BIh2QjejtCoaxpqV63qVtmIpFY-nWVCo/view?usp=share_link">Slide</a> | -->
-                    <!-- <a href="assets/pdf/talk.pdf">Slide(PDF)</a> | -->
-                    <a href="https://github.com/chengxuxin/extreme-parkour">Code</a> |
-                    <a href="https://twitter.com/pathak2206/status/1725216365840384360">Live Demo</a>
-                  </div>
-                  </p>
-
-                  <!-- <p>
-                    <div>
-                      An end-to-end data-driven approach that can scale to the challenging task of precise and extreme parkour with onboard sensing.
-                    </div>
-                  </p> -->
-              
-                  <!-- <p align="justify"> <i id="udc_abs">
-                    A learning-based method that achieve perception-aware, minimum-time flight in cluttered environments.
-                  </i></p> -->
-              
-              
-              </td>
-              </tr>
-
-              <tr>
-                <td width="40%" valign="top" align="center">
-                <img src="assets/img/agileflight.gif" alt="sym" width="90%" style="margin-top:10px;padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black"></video>
-                </td>
-
-                <td width="60%" valign="center">
-                  <p><a href="agileflight.html" id="perception-aware">
-                  <papertitle><b>Learning Perception-Aware Agile Flight in Cluttered Environments</b></papertitle></a><br>
-
-                    Yunlong Song*, <b>Kexin Shi*</b>, 
-                    Robert Penicka, 
-                    Davide Scaramuzza
-                  
-                  </p>
-
-                  <p>
-
-                  </p>
-
-                  <p>
-                  <div>
-                    ICRA 2023
-                  </div>
-              
-                  <div class="paper" id="perception-aware">
-                    <!-- <a href="agileflight.html">Webpage</a> | -->
-                    <!-- <a href="javascript:toggleblock('udc_abs')">abstract</a> | -->
-                    <!-- <a shape="rect" href="javascript:togglebib('arma')" class="togglebib">bibtex</a> | -->
-                    <a href="agileflight.html">Webpage</a> |
-                    <!-- <a href="assets/pdf/agileflight_poster.pdf">Poster</a> | -->
-                    <a href="https://arxiv.org/abs/2210.01841">Paper</a> |
-                    <a href="https://www.youtube.com/watch?v=9q059CFGcVA">Video</a> |
-                    <a href="https://docs.google.com/presentation/d/1x6J1FSLD8-AhrI9EaM37v_Ig8_q8s_cVTJu45I8L8C4/edit?usp=sharing">Slide</a> 
-                  </div>
-                  </p>
-
-                  <!-- <p>
-                    <div>
-                      A learning-based method that achieves perception-aware, minimum-time, vision-based flight in cluttered environments.
-                    </div>
-                  </p> -->
-              
-                  <!-- <p align="justify"> <i id="udc_abs">
-                    A learning-based method that achieve perception-aware, minimum-time flight in cluttered environments.
-                  </i></p> -->
-              
-              
-              </td>
-              </tr>
-              
-            </tbody></table>
-
-          </div>
+  </div>
+</body>
+</html>
