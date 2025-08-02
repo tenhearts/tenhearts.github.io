@@ -18,7 +18,7 @@ personal: false
 projects: false
 ---
 
-**Email**: kexins [at] andrew.cmu.edu
+**Email**: kexins [at] andrew [dot] cmu [dot] edu
 
 Hey! I am a Robotics Ph.D. at [CMU Robotics Institute](https://www.ri.cmu.edu/) advised by [Prof. Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). Previously, I was research scholar at [Skild AI](https://www.skild.ai/) and a graduate researcher at [Robotics and Perception Group](https://rpg.ifi.uzh.ch/index.html) advised by [Prof. Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). 
 
